@@ -1,4 +1,4 @@
-## chatbot_pizzao_rder
+## chatbot_pizza_order
 
 chatbotpizza <- function() {
 
