@@ -14,4 +14,7 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Pyton programming
 - Essential pyton for Data Analyst
 - Dashbboard
-You can find me on Linkedin
+## Contract me
+- Tel: 064-794-6464
+- email: 5810740562@student.tu.ac.th
+- You can find me on Linkedin
